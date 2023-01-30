@@ -11,8 +11,9 @@ I am a member of the [mlr-org]() core-team, we develop the [mlr3]() ecosystem.<b
 I personally have authored / contributed to the following packages:
 - [mlr3book](https://github.com/mlr-org/mlr3book)
 - [mlr3pipelines](https://github.com/mlr-org/mlr3pipelines)
-- [mlr3fda](https://github.com/mlr-org/mlr3fda)
+- [mlr3temporal](https://github.com/mlr-org/mlr3temporal)
 - [mlr3fairness](https://github.com/mlr-org/mlr3fairness)
+- [mlr3keras](https://github.com/mlr-org/mlr3keras)
 
 I furthermore worked on several other software packages:
 - [mcboost]()
