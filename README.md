@@ -38,8 +38,9 @@ I'd like to work in and learn more about the following areas:
 
 #### Freelancing
 
-If you are interested in working together, either on open source projects or on other projects, contact me!
-I have worked in a freelance capacity in several different projects before and I am always interested in getting to know new people and tackling interesting problems!
+If you are interested in working together, either on open source projects or on other projects, contact me!<br>
+I have worked in a freelance capacity in several different projects before and greatly enjoyed the challenges.<br>
+I am always interested in getting to know new people and tackling interesting problems.<br>
 You can reach me at pfistfl.dev@gmail.com.
 
 
