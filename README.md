@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Florian!
 I'm an open source software developer from Munich, Germany! <br>
-I currently actively develop open source software mainly in R and Python.
+I currently actively develop open source software mainly in R and Python.<br>
 Here you can find my current projects and research interests!
 
 #### Current Projects
@@ -22,7 +22,7 @@ I furthermore worked on several other software packages:
 
 **Python**
 
--  [YAHPO GYM:](https://github.com/slds-lmu/yahpo-gym) <br>
+-  [YAHPO GYM](https://github.com/slds-lmu/yahpo-gym) <br>
   I am currently working on improving [yahpo-gym](https://github.com/slds-lmu/yahpo-gym), a toolbox for researchers in hyperparameter optimization.<br>
   It is built using `Pytorch` and `ONNX` and allows lightweight and lightining fast access to neural network based surrogates.
 
