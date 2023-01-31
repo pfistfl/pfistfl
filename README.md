@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Florian!
-I'm an OSS from Munich, Germany! <br>
-I am an active open source software developer, developing open source software mainly in R and Python.
+I'm an open source software developer from Munich, Germany! <br>
+I currently actively develop open source software mainly in R and Python.
 Here you can find my current projects and research interests!
 
 #### Current Projects
@@ -36,8 +36,16 @@ I'd like to work in and learn more about the following areas:
 - Hyperparameter Optimization
 - Everything AutoML
 
+#### Freelancing
+
+If you are interested in working together, either on open source projects or on other projects, contact me!
+I have worked in a freelance capacity in several different projects before and I am always interested in getting to know new people and tackling interesting problems!
+You can reach me at pfistfl.dev@gmail.com.
+
+
 #### Other Info
 
 - 🌱 I’m currently learning more about MLOps concepts and using Kubernetes
 - 💬 Ask me about R, ML, HPO, One-shot Optimization and Algorithmic Fairness
+- Reach me at pfistfl.dev@gmail.com
 - 😄 Pronouns: He/him
