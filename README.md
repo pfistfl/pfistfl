@@ -22,7 +22,7 @@ I furthermore worked on several other software packages:
 
 **Python**
 
--  [YAHPO GYM](https://github.com/slds-lmu/yahpo-gym) <br>
+- [https://github.com/slds-lmu/yahpo-gym](https://github.com/slds-lmu/yahpo_gym) <br>
   I am currently working on improving [yahpo-gym](https://github.com/slds-lmu/yahpo-gym), a toolbox for researchers in hyperparameter optimization.<br>
   It is built using `Pytorch` and `ONNX` and allows lightweight and lightining fast access to neural network based surrogates.
 
