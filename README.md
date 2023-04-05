@@ -9,11 +9,11 @@ Here you can find my current projects and research interests!
 
 I am a member of the [mlr-org]() core-team, we develop the [mlr3]() ecosystem.<br>
 I personally have authored / contributed to the following packages:
-- [mlr3book](https://github.com/mlr-org/mlr3book)
 - [mlr3pipelines](https://github.com/mlr-org/mlr3pipelines)
 - [mlr3temporal](https://github.com/mlr-org/mlr3temporal)
 - [mlr3fairness](https://github.com/mlr-org/mlr3fairness)
 - [mlr3keras](https://github.com/mlr-org/mlr3keras)
+- [mlr3book](https://github.com/mlr-org/mlr3book)
 
 I furthermore worked on several other software packages:
 - [mcboost]()
