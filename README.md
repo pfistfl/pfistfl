@@ -1,4 +1,4 @@
-### Hi there 👋 I am Florian!
+### Hi there, 👋 I am Florian!
 
 I'm an open-source software software developer from Munich, Germany! <br>
 I currently actively develop open-source software mainly in R and Python.<be>
