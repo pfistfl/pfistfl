@@ -2,7 +2,7 @@
 
 I'm an open-source software software developer from Munich, Germany! <br>
 I currently actively develop open-source software mainly in R and Python.<be>
-Before leaving academia and starting to work in industry, I researched **Automated Machine Learning**, **Algorithmic Fairness** and many other areas of machine learning.
+Before leaving academia and joining (hema.to)[https://github.com/hema-to], I enjoyed researching **Automated Machine Learning**, **Algorithmic Fairness** and many other areas of machine learning.
 Right now, my focus is on harnessing the power of ML and flow cytometry to help better diagnose leukemias and other disease of the blood.
 Here you can find my current projects and research interests!
 
