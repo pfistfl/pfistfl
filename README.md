@@ -1,14 +1,16 @@
 ### Hi there 👋 I am Florian!
-I'm an open source software developer from Munich, Germany! <br>
-I currently actively develop open source software mainly in R and Python.<br>
+
+I'm an open-source software software developer from Munich, Germany! <br>
+I currently actively develop open-source software mainly in R and Python.<be>
+Before leaving academia and starting to work in industry, I researched **Automated Machine Learning**, **Algorithmic Fairness** and many other areas of machine learning.
+Right now, my focus is on harnessing the power of ML and flow cytometry to help better diagnose leukemias and other disease of the blood.
 Here you can find my current projects and research interests!
 
 #### Current Projects
 
 **R**
-
 I am a member of the [mlr-org]() core-team, we develop the [mlr3]() ecosystem.<br>
-I personally have authored / contributed to the following packages:
+I have authored/contributed to the following packages:
 - [mlr3pipelines](https://github.com/mlr-org/mlr3pipelines)
 - [mlr3temporal](https://github.com/mlr-org/mlr3temporal)
 - [mlr3fairness](https://github.com/mlr-org/mlr3fairness)
@@ -29,11 +31,10 @@ I furthermore worked on several other software packages:
 #### Interests
 
 I am interested in developing software that brings a tangible benefit to users and society.<br>
-I'd like to work in and learn more about the following areas:
+I want to work in and learn more about the following areas:
 - Deep Learning on tabular data
 - Algorithmic fairness
-- MLOps
-- Hyperparameter Optimization
+- Deploying ML in the real world / MLOps
 - Everything AutoML
 
 #### Freelancing
