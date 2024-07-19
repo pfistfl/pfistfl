@@ -3,7 +3,7 @@
 I'm an open-source software software developer from Munich, Germany! <br>
 I currently actively develop open-source software mainly in R and Python.<be>
 Before leaving academia and joining [hema.to](https://github.com/hema-to), I enjoyed researching **Automated Machine Learning**, **Algorithmic Fairness**, **ML for Flow Cytometry** and many other areas of machine learning.
-Right now, my focus is on harnessing the power of ML and flow cytometry to help better diagnose leukemias and other disease of the blood.
+Right now, my focus is on harnessing the power of ML and flow cytometry to help better diagnose leukaemias and other disease of the blood.
 Here you can find my current projects and research interests!
 
 #### Current Projects
@@ -26,22 +26,23 @@ I furthermore worked on several other software packages:
 
 - [yahpo-gym](https://github.com/slds-lmu/yahpo_gym) <br>
   I am currently working on improving [yahpo-gym](https://github.com/slds-lmu/yahpo-gym), a toolbox for researchers in hyperparameter optimization.<br>
-  It is built using `Pytorch` and `ONNX` and allows lightweight and lightining fast access to neural network based surrogates.
+  It is built using `Pytorch` and `ONNX` and allows lightweight and lightning fast access to neural network-based surrogates.
 
 #### Interests
 
 I am interested in developing software that brings a tangible benefit to users and society.<br>
 I want to work in and learn more about the following areas:
-- Deep Learning on tabular data
 - Algorithmic fairness
 - Deploying ML in the real world / MLOps
+- LLM's in the medical space
 - Everything AutoML
 - ML for flow cytometry
-
+- Deep Learning on tabular data
+- 
 #### Freelancing
 
 If you are interested in working together, either on open source projects or on other projects, contact me!<br>
-I have worked in a freelance capacity in several different projects before and greatly enjoyed the challenges.<br>
+I have worked in a freelance capacity on several different projects before and greatly enjoyed the challenges.<br>
 I am always interested in getting to know new people and tackling interesting problems.<br>
 You can reach me at pfistfl.dev@gmail.com.
 
