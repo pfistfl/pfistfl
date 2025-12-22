@@ -8,7 +8,14 @@ Here you can find my current projects and research interests!
 
 #### Current Projects
 
+**Python**
+
+- [yahpo-gym](https://github.com/slds-lmu/yahpo_gym) <br>
+  I am currently working on improving [yahpo-gym](https://github.com/slds-lmu/yahpo-gym), a toolbox for researchers in hyperparameter optimization.<br>
+  It is built using `Pytorch` and `ONNX` and allows lightweight and lightning fast access to neural network-based surrogates.
+
 **R**
+
 I am a member of the [mlr-org]() core-team, we develop the [mlr3]() ecosystem.<br>
 I have authored/contributed to the following packages:
 - [mlr3pipelines](https://github.com/mlr-org/mlr3pipelines)
@@ -22,23 +29,20 @@ I furthermore worked on several other software packages:
 - [classiFunc](https://github.com/maierhofert/classiFunc) (defunct)
 
 
-**Python**
-
-- [yahpo-gym](https://github.com/slds-lmu/yahpo_gym) <br>
-  I am currently working on improving [yahpo-gym](https://github.com/slds-lmu/yahpo-gym), a toolbox for researchers in hyperparameter optimization.<br>
-  It is built using `Pytorch` and `ONNX` and allows lightweight and lightning fast access to neural network-based surrogates.
 
 #### Interests
 
 I am interested in developing software that brings a tangible benefit to users and society.<br>
 I want to work in and learn more about the following areas:
-- Algorithmic fairness
+
+- ML for flow cytometry
+- Deep Learning on tabular data
 - Deploying ML in the real world / MLOps
 - LLM's in the medical space
 - Everything AutoML
-- ML for flow cytometry
-- Deep Learning on tabular data
-- 
+- Algorithmic fairness
+
+
 #### Freelancing
 
 If you are interested in working together, either on open source projects or on other projects, contact me!<br>
